@@ -72,34 +72,3 @@ Models are compared using multiple evaluation metrics, including:
 * Scikit-learn
 * Jupyter Notebook / Google Colab
 
-## Project Structure
-
-```text
-heart-disease-data-analysis/
-│
-├── README.md
-├── heart_disease_analysis.ipynb
-├── data/
-│   └── heart_disease.csv
-└── requirements.txt
-```
-
-## How to Run
-
-Clone the repository and install the required libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
-Then open:
-
-```text
-heart_disease_analysis.ipynb
-```
-
-and run the notebook from top to bottom.
-
-## Academic Context
-
-This project was completed as part of undergraduate coursework and demonstrates practical experience with exploratory data analysis, data preprocessing, machine learning, and statistical interpretation.
